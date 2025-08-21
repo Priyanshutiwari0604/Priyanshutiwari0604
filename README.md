@@ -7,6 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-priyanshutiwari2022%40vitbhopal.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshutiwari2022@vitbhopal.ac.in)  
 [![GitHub](https://img.shields.io/badge/GitHub-Priyanshutiwari0604-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanshutiwari0604)  
 
+
 </div>
 
 ---
@@ -19,99 +20,120 @@ Currently seeking **Software Engineer opportunities** to apply my skills in **sy
 ---
 
 ## Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,go,html,css" height="45" />
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" height="45" />
-</p>
-<p align="center">
-  C • C++ • Python • Java • JavaScript • Go • HTML • CSS • MySQL • PostgreSQL
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=c" height="45"/><br>C</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" height="45"/><br>C++</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" height="45"/><br>Python</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" height="45"/><br>Java</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=js" height="45"/><br>JavaScript</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=go" height="45"/><br>Go</td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" height="45"/><br>HTML</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" height="45"/><br>CSS</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mysql" height="45"/><br>MySQL</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postgres" height="45"/><br>PostgreSQL</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ## Web & Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,django,express,nextjs,react,nodejs,tailwind,bootstrap,materialui,vite" height="45" />
-</p>
-<p align="center">
-  Flask • FastAPI • Django • Express • Next.js • React • Node.js • Tailwind CSS • Bootstrap • Material UI • Vite
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=flask" height="45"/><br>Flask</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=fastapi" height="45"/><br>FastAPI</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=django" height="45"/><br>Django</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=express" height="45"/><br>Express</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" height="45"/><br>Next.js</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" height="45"/><br>React</td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" height="45"/><br>Node.js</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" height="45"/><br>Tailwind</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=bootstrap" height="45"/><br>Bootstrap</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=materialui" height="45"/><br>Material UI</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vite" height="45"/><br>Vite</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ## Databases & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,git,github,linux,vscode,postman,docker,kubernetes,aws,firebase,jenkins" height="45" />
-</p>
-<p align="center">
-  MongoDB • MySQL • PostgreSQL • SQLite • Git • GitHub • Linux • VS Code • Postman • Docker • Kubernetes • AWS • Firebase • Jenkins
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" height="45"/><br>MongoDB</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=sqlite" height="45"/><br>SQLite</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" height="45"/><br>Git</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" height="45"/><br>GitHub</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux" height="45"/><br>Linux</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" height="45"/><br>VS Code</td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=postman" height="45"/><br>Postman</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" height="45"/><br>Docker</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=kubernetes" height="45"/><br>Kubernetes</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=aws" height="45"/><br>AWS</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=firebase" height="45"/><br>Firebase</td>
+    <td align="center" width="100"><img src="https://skillicons.dev/icons?i=jenkins" height="45"/><br>Jenkins</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
 ## Cybersecurity & Ethical Hacking Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
-</p>
-<p align="center">
-  Kali Linux • Wireshark • Burp Suite • OWASP ZAP
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLMap-FF4500?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logoColor=white" />
-</p>
-<p align="center">
-  Metasploit • Nmap • SQLMap • Nessus
-</p>
+<table>
+  <tr>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/><br>Kali Linux</td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/><br>Wireshark</td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/><br>Burp Suite</td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white"/><br>OWASP ZAP</td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/><br>Metasploit</td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/><br>Nmap</td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/SQLMap-FF4500?style=for-the-badge"/><br>SQLMap</td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge"/><br>Nessus</td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge"/><br>Hydra</td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/John%20the%20Ripper-FFA500?style=for-the-badge"/><br>John the Ripper</td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/Hashcat-708090?style=for-the-badge"/><br>Hashcat</td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/Aircrack--ng-4682B4?style=for-the-badge"/><br>Aircrack-ng</td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/Nikto-556B2F?style=for-the-badge"/><br>Nikto</td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/Ettercap-8B4513?style=for-the-badge"/><br>Ettercap</td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/OpenVAS-4B9CD3?style=for-the-badge"/><br>OpenVAS</td>
+    <td align="center" width="130"><img src="https://img.shields.io/badge/tcpdump-000000?style=for-the-badge"/><br>tcpdump</td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-FFA500?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hashcat-708090?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aircrack--ng-4682B4?style=for-the-badge&logoColor=white" />
-</p>
-<p align="center">
-  Hydra • John the Ripper • Hashcat • Aircrack-ng
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Nikto-556B2F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ettercap-8B4513?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenVAS-4B9CD3?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/tcpdump-000000?style=for-the-badge&logoColor=white" />
-</p>
-<p align="center">
-  Nikto • Ettercap • OpenVAS • tcpdump
-</p>
+</div>
 
 ---
 
 ## Selected Projects
-### [RedTeam-ReverseShell](https://github.com/Priyanshutiwari0604/RedTeam-ReverseShell)  
-Python-based reverse shell for red team lab use, demonstrating post-exploitation and remote command execution.  
-**Stack:** Python, Networking, Shell scripting  
-
-### [web-directory-scanner](https://github.com/Priyanshutiwari0604/web-directory-scanner)  
-Python tool for discovering hidden directories and files on web servers.  
-**Stack:** Python, HTTP, threading  
-
-### [BlogBridge](https://github.com/Priyanshutiwari0604/BlogBridge)  
-Role-based blogging platform with authentication and admin dashboard.  
-**Stack:** Flask, SQLAlchemy, MySQL, Jinja2  
-
-### [TuneTrail](https://github.com/Priyanshutiwari0604/TuneTrail)  
-Music-related web application with front-end and backend integration.  
-**Stack:** React, TypeScript  
-
-### [Weather-Pro](https://github.com/Priyanshutiwari0604/js-mini-projects)  
-Lightweight, responsive web apps showcasing frontend skills.  
-**Stack:** HTML, CSS, JavaScript  
+- [**RedTeam-ReverseShell**](https://github.com/Priyanshutiwari0604/RedTeam-ReverseShell) – Python-based reverse shell for red team lab use.  
+- [**web-directory-scanner**](https://github.com/Priyanshutiwari0604/web-directory-scanner) – Python tool for hidden directory discovery.  
+- [**BlogBridge**](https://github.com/Priyanshutiwari0604/BlogBridge) – Role-based blogging platform with authentication.  
+- [**TuneTrail**](https://github.com/Priyanshutiwari0604/TuneTrail) – Music web application with full-stack integration.  
+- [**Weather-Pro**](https://github.com/Priyanshutiwari0604/js-mini-projects) – Responsive weather app using APIs.  
 
 ---
 
@@ -129,6 +151,6 @@ Lightweight, responsive web apps showcasing frontend skills.
 ## Contact
 - Email: [priyanshutiwari2022@vitbhopal.ac.in](mailto:priyanshutiwari2022@vitbhopal.ac.in)  
 - LinkedIn: [linkedin.com/in/priyanshu-tiwari-470700251](https://www.linkedin.com/in/priyanshu-tiwari-470700251)  
-
+ 
 
 ---
