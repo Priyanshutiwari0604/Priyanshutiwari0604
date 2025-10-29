@@ -129,11 +129,11 @@ Currently seeking **Software Engineer opportunities** to apply my skills in **sy
 ---
 
 ## Selected Projects
-- [**RedTeam-ReverseShell**](https://github.com/Priyanshutiwari0604/RedTeam-ReverseShell) – Python-based reverse shell for red team lab use.  
-- [**web-directory-scanner**](https://github.com/Priyanshutiwari0604/web-directory-scanner) – Python tool for hidden directory discovery.  
-- [**BlogBridge**](https://github.com/Priyanshutiwari0604/BlogBridge) – Role-based blogging platform with authentication.  
-- [**TuneTrail**](https://github.com/Priyanshutiwari0604/TuneTrail) – Music web application with full-stack integration.  
-- [**Weather-Pro**](https://github.com/Priyanshutiwari0604/js-mini-projects) – Responsive weather app using APIs.  
+- [**MalViz**](https://github.com/Priyanshutiwari0604/MalViz) – MERN-based malware visualization and analysis platform. .  
+- [**HashIdentifier**](https://github.com/Priyanshutiwari0604/Hash_Identifier) – command-line tool for identifying hash types and cryptographic algorithms.  
+- [**HydraForage**](https://github.com/Priyanshutiwari0604/HydraForge) – Python-based re-implementation of core THC-Hydra functionality.  
+- [**VortexScan**](https://github.com/Priyanshutiwari0604/VortexScan) –VORTEXSCAN is a dirsearch/gobuster-like directory & file discovery tool written in Python..  
+- [**RedTeam-ReverseShell**](https://github.com/Priyanshutiwari0604/RedTeam-ReverseShell) – A Python-based reverse shell for red team lab use.  
 
 ---
 
