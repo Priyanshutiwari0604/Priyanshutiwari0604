@@ -6,7 +6,7 @@
 ### Red Team • Penetration Testing • Exploit Development • Cybersecurity Automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-tiwari-470700251)
-[![Email](https://img.shields.io/badge/Email-priyanshutiwari2022%40vitbhopal.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshutiwari2022@vitbhopal.ac.in)
+[![Email](https://img.shields.io/badge/Email-kvstudent245%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kvstudent245@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Priyanshutiwari0604-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanshutiwari0604)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%205%25-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kvstudent245)
 
