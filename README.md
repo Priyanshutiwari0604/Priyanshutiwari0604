@@ -217,21 +217,8 @@ The icons below are displayed as small badges for readability and consistent ren
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<!-- Stable stats: github-readme-stats without count_private -->
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanshutiwari0604&show_icons=true&theme=radical&hide_border=true" height="160"/>
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshutiwari0604&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160"/>
-
-</div>
-
----
-
 ## Contact & Collaboration
-- Email: [priyanshutiwari2022@vitbhopal.ac.in](mailto:priyanshutiwari2022@vitbhopal.ac.in)  
+- Email: [kvstudent245@gmail.com](mailto:kvstudent245@gmail.com)  
 - LinkedIn: [linkedin.com/in/priyanshu-tiwari-470700251](https://www.linkedin.com/in/priyanshu-tiwari-470700251)  
 - GitHub: [github.com/Priyanshutiwari0604](https://github.com/Priyanshutiwari0604)
 
